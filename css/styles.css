@@ -12,6 +12,5 @@ p{
     font-family: Arial, Helvetica, sans-serif;
 }
 class images{
-    display: inline;
-    text-align: center;
+    display: horizontal;
 }
